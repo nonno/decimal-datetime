@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <ReleaseVersion>1.3</ReleaseVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Decimal.DateTime</PackageId>
+    <Authors>pallettaro, mpic</Authors>
+    <NeutralLanguage>it-IT</NeutralLanguage>
+    <Owners>pallettaro, mpic</Owners>
+    <PackageProjectUrl>https://github.com/nonno/decimal-datetime</PackageProjectUrl>
+    <Title>Decimal DateTime</Title>
+    <Description>Library for handling decimal time and revolutionary calendar</Description>
+    <ReleaseVersion>2.0</ReleaseVersion>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageVersion>1.3</PackageVersion>
+    <RootNamespace>Pallettaro.Revo</RootNamespace>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType></DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="i18n\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.1" />
+  </ItemGroup>
+</Project>

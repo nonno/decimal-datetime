@@ -1,31 +1,31 @@
-﻿using DecimalDatetime.i18n;
+﻿using Pallettaro.Revo.i18n;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DecimalDatetime
+namespace Pallettaro.Revo
 {
-    public class DecimalDatetime
+    public class DateTime
     {
         public const decimal SECONDS_RATIO = 0.864M;
         private const int REPUBLICAN_HOURS_IN_DAY = 10;
         private const int REPUBLICAN_MINUTES_IN_HOUR = 100;
         private const int REPUBLICAN_SECONDS_IN_MINUTE = 100;
 
-        public static DecimalDatetime Now
+        public static DateTime Now
         {
             get
             {
-                return new DecimalDatetime(DateTime.Now);
+                return new DateTime(System.DateTime.Now);
             }
         }
 
-        private DateTime FIRST_DATETIME = new DateTime(1980, 9, 22);
+        private System.DateTime FIRST_DATETIME = new System.DateTime(1980, 9, 22);
         private const int FIRST_YEAR = 189;
         private static List<Int32> bisestili = new List<int>();
-        public DateTime datetime { get; private set; }
+        public System.DateTime datetime { get; private set; }
         private int totalRepublicanSecondsInDay = 0;
         private int totalRepublicanDays = 0;
         private int totalMilliSeconds = 0;
@@ -80,7 +80,7 @@ namespace DecimalDatetime
             }
             return string.Empty;
         }
-        public DecimalDatetime(int year, int month, int day)
+        public DateTime(int year, int month, int day)
         {
             if(year < FIRST_YEAR || month < 1 || month > 13 || day < 1 || day > 30)
             {
@@ -109,7 +109,7 @@ namespace DecimalDatetime
             this.datetime = FIRST_DATETIME.AddDays(totalDays - 1);
             this.InitDate();
         }
-        public DecimalDatetime(int year, int month, int day, int hour, int minute, int second) : this(year, month, day)
+        public DateTime(int year, int month, int day, int hour, int minute, int second) : this(year, month, day)
         {
             if(hour < 0 || hour > 9 || minute < 0 || minute > 99 || second < 0 || second > 99)
             {
@@ -121,7 +121,7 @@ namespace DecimalDatetime
             totalRepublicanSecondsInDay = Decimal.ToInt32((totalMilliSeconds / SECONDS_RATIO) / 1000);
             this.InitDate();
         }
-        public DecimalDatetime(DateTime datetime)
+        public DateTime(System.DateTime datetime)
         {
             if (!bisestili.Any())
             {
@@ -217,7 +217,7 @@ namespace DecimalDatetime
         public int RepublicanYear { get; private set; }
         public override string ToString()
         {
-            return DecimalDatetimeFormat.Format(this, "dd-MM-yyy");
+            return DateTimeFormat.Format(this, "dd-MM-yyy");
         }
         public string ToString(string format)
         {
@@ -225,7 +225,7 @@ namespace DecimalDatetime
             {
                 return ToString();
             }
-            return DecimalDatetimeFormat.Format(this, format); 
+            return DateTimeFormat.Format(this, format); 
         }
     }
 }

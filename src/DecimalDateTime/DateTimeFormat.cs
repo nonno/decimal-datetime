@@ -2,9 +2,9 @@
 using System.Globalization;
 using System.Text;
 
-namespace DecimalDatetime
+namespace Pallettaro.Revo
 {
-    internal static class DecimalDatetimeFormat
+    public static class DateTimeFormat
     {
         internal static char[] allStandardFormats =
         {
@@ -26,7 +26,7 @@ namespace DecimalDatetime
             return (index - pos);
         }
         
-        internal static String Format(DecimalDatetime dateTime, String format)
+        public static String Format(Pallettaro.Revo.DateTime dateTime, String format)
         {
             StringBuilder result = new StringBuilder();
 
@@ -52,51 +52,6 @@ namespace DecimalDatetime
                         tokenLen = ParseRepeatPattern(format, i, ch);
                         FormatDigits(result, dateTime.RepublicanSeconds, tokenLen);
                         break;
-                    /*case 'f':
-                    case 'F':
-                        tokenLen = ParseRepeatPattern(format, i, ch);
-                        if (tokenLen <= MaxSecondsFractionDigits)
-                        {
-                            long fraction = (dateTime.Ticks % Calendar.TicksPerSecond);
-                            fraction = fraction / (long)Math.Pow(10, 7 - tokenLen);
-                            if (ch == 'f')
-                            {
-                                result.Append(((int)fraction).ToString(fixedNumberFormats[tokenLen - 1], CultureInfo.InvariantCulture));
-                            }
-                            else
-                            {
-                                int effectiveDigits = tokenLen;
-                                while (effectiveDigits > 0)
-                                {
-                                    if (fraction % 10 == 0)
-                                    {
-                                        fraction = fraction / 10;
-                                        effectiveDigits--;
-                                    }
-                                    else
-                                    {
-                                        break;
-                                    }
-                                }
-                                if (effectiveDigits > 0)
-                                {
-                                    result.Append(((int)fraction).ToString(fixedNumberFormats[effectiveDigits - 1], CultureInfo.InvariantCulture));
-                                }
-                                else
-                                {
-                                    // No fraction to emit, so see if we should remove decimal also.
-                                    if (result.Length > 0 && result[result.Length - 1] == '.')
-                                    {
-                                        result.Remove(result.Length - 1, 1);
-                                    }
-                                }
-                            }
-                        }
-                        else
-                        {
-                            throw new FormatException(Environment.GetResourceString("Format_InvalidString"));
-                        }
-                        break;*/
                     case 'd':
                         // tokenLen == 1 : Day of month as digits with no leading zero. 
                         // tokenLen == 2 : Day of month as digits with leading zero for single-digit months.

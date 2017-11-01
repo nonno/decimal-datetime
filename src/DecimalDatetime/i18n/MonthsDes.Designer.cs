@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DecimalDatetime.i18n {
+namespace Pallettaro.Revo.i18n {
     using System;
     using System.Reflection;
     
@@ -38,7 +38,7 @@ namespace DecimalDatetime.i18n {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DecimalDatetime.i18n.MonthsDes", typeof(MonthsDes).GetTypeInfo().Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Pallettaro.Revo.i18n.MonthsDes", typeof(MonthsDes).GetTypeInfo().Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
