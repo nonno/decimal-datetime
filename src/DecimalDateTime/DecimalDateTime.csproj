@@ -27,6 +27,17 @@
     <Folder Include="i18n\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="i18n\Days.Designer.cs">
+      <DependentUpon>Days.resx</DependentUpon>
+    </Compile>
+    <Compile Update="i18n\Months.Designer.cs">
+      <DependentUpon>Months.resx</DependentUpon>
+    </Compile>
+    <Compile Update="i18n\MonthsDes.Designer.cs">
+      <DependentUpon>MonthsDes.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="NuGet.Build.Packaging" Version="0.2.1" />
   </ItemGroup>
 </Project>
