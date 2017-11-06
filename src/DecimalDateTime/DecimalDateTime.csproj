@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.1</TargetFramework>
-    <ReleaseVersion>1.3</ReleaseVersion>
+    <ReleaseVersion></ReleaseVersion>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -15,7 +15,7 @@
     <Description>Library for handling decimal time and revolutionary calendar</Description>
     <ReleaseVersion>2.0</ReleaseVersion>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>1.3</PackageVersion>
+    <PackageVersion>1.4</PackageVersion>
     <RootNamespace>Pallettaro.Revo</RootNamespace>
     <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>

@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <data name="m01" xml:space="preserve">
-    <value>des vendanges qui ont lieu de septembre en octobre</value>
+    <value>alla vendemmia che avviene da settembre a ottobre</value>
   </data>
   <data name="m02" xml:space="preserve">
-    <value>des brouillards et des brumes basses qui sont la transsudation de la nature d'octobre en novembre</value>
+    <value>alle nebbie e brume basse che sono la trasudazione della natura da ottobre a novembre</value>
   </data>
   <data name="m03" xml:space="preserve">
-    <value>du froid, tantôt sec, tantôt humide, qui se fait sentir de novembre en décembre</value>
+    <value>al freddo, a volte asciutto, a volte umido, che si fa sentire da novembre a dicembre</value>
   </data>
   <data name="m04" xml:space="preserve">
-    <value>de la neige qui blanchit la terre de décembre en janvier</value>
+    <value>alla neve che imbianca la terra da dicembre a gennaio</value>
   </data>
   <data name="m05" xml:space="preserve">
-    <value>des pluies qui tombent généralement avec plus d'abondance de janvier en février</value>
+    <value>alle piogge che cadono in genere più copiosamente da gennaio a febbraio</value>
   </data>
   <data name="m06" xml:space="preserve">
-    <value>des giboulées qui ont lieu, et du vent qui vient sécher la terre de février en mars</value>
+    <value>agli acquazzoni che hanno luogo, e ai venti che seccano la terra da febbraio a marzo</value>
   </data>
   <data name="m07" xml:space="preserve">
-    <value>de la fermentation et du développement de la sève de mars en avril</value>
+    <value>alla fermentazione e allo sviluppo della linfa da marzo ad aprile</value>
   </data>
   <data name="m08" xml:space="preserve">
-    <value>de l'épanouissement des fleurs d'avril en mai</value>
+    <value>alla sbocciatura dei fiori da aprile a maggio</value>
   </data>
   <data name="m09" xml:space="preserve">
-    <value>de la fécondité riante et de la récolte des prairies de mai en juin</value>
+    <value>alla fecondità ridente dei prati e alla raccolta delle messi da maggio a giugno</value>
   </data>
   <data name="m10" xml:space="preserve">
-    <value>de l'aspect des épis ondoyants et des moissons dorées qui couvrent les champs de juin et juillet</value>
+    <value>all'aspetto delle spighe ondeggianti e delle mietiture dorate che coprono i campi da giugno a luglio</value>
   </data>
   <data name="m11" xml:space="preserve">
-    <value>de la chaleur tout à la fois solaire et terrestre qui embrase l'air de juillet en août</value>
+    <value>al calore allo stesso tempo solare e terrestre che infiamma l'aria da luglio ad agosto</value>
   </data>
   <data name="m12" xml:space="preserve">
-    <value>des fruits que le soleil dore et mûrit d'août en septembre</value>
+    <value>ai frutti che il sole dora e fa maturare da agosto a settembre</value>
   </data>
   <data name="m13" xml:space="preserve">
-    <value>tel jour complémentaire de l'an deuxième (troisième) de la République française</value>
+    <value>ai pochi giorni per allineare le decadi alla rivoluzione terrestre</value>
   </data>
 
   <resheader name="resmimetype">

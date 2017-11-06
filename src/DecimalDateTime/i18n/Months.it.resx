@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <data name="m01" xml:space="preserve">
-    <value>des vendanges qui ont lieu de septembre en octobre</value>
+    <value>Vendemmiaio</value>
   </data>
   <data name="m02" xml:space="preserve">
-    <value>des brouillards et des brumes basses qui sont la transsudation de la nature d'octobre en novembre</value>
+    <value>Brumaio</value>
   </data>
   <data name="m03" xml:space="preserve">
-    <value>du froid, tantôt sec, tantôt humide, qui se fait sentir de novembre en décembre</value>
+    <value>Frimaio</value>
   </data>
   <data name="m04" xml:space="preserve">
-    <value>de la neige qui blanchit la terre de décembre en janvier</value>
+    <value>Nevoso</value>
   </data>
   <data name="m05" xml:space="preserve">
-    <value>des pluies qui tombent généralement avec plus d'abondance de janvier en février</value>
+    <value>Piovoso</value>
   </data>
   <data name="m06" xml:space="preserve">
-    <value>des giboulées qui ont lieu, et du vent qui vient sécher la terre de février en mars</value>
+    <value>Ventoso</value>
   </data>
   <data name="m07" xml:space="preserve">
-    <value>de la fermentation et du développement de la sève de mars en avril</value>
+    <value>Germinale</value>
   </data>
   <data name="m08" xml:space="preserve">
-    <value>de l'épanouissement des fleurs d'avril en mai</value>
+    <value>Fiorile</value>
   </data>
   <data name="m09" xml:space="preserve">
-    <value>de la fécondité riante et de la récolte des prairies de mai en juin</value>
+    <value>Pratile</value>
   </data>
   <data name="m10" xml:space="preserve">
-    <value>de l'aspect des épis ondoyants et des moissons dorées qui couvrent les champs de juin et juillet</value>
+    <value>Messidoro</value>
   </data>
   <data name="m11" xml:space="preserve">
-    <value>de la chaleur tout à la fois solaire et terrestre qui embrase l'air de juillet en août</value>
+    <value>Termidoro</value>
   </data>
   <data name="m12" xml:space="preserve">
-    <value>des fruits que le soleil dore et mûrit d'août en septembre</value>
+    <value>Fruttidoro</value>
   </data>
   <data name="m13" xml:space="preserve">
-    <value>tel jour complémentaire de l'an deuxième (troisième) de la République française</value>
+    <value>Sanculottidi</value>
   </data>
 
   <resheader name="resmimetype">

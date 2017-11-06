@@ -1,1102 +1,1102 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <data name="d001" xml:space="preserve">
-    <value>Raisin</value>
+    <value>Uva</value>
   </data>
   <data name="d002" xml:space="preserve">
-    <value>Safran</value>
+    <value>Zafferano</value>
   </data>
   <data name="d003" xml:space="preserve">
-    <value>Châtaigne</value>
+    <value>Castagna</value>
   </data>
   <data name="d004" xml:space="preserve">
-    <value>Colchique</value>
+    <value>Colchico</value>
   </data>
   <data name="d005" xml:space="preserve">
-    <value>Cheval</value>
+    <value>Cavallo</value>
   </data>
   <data name="d006" xml:space="preserve">
-    <value>Balsamine</value>
+    <value>Balsamina</value>
   </data>
   <data name="d007" xml:space="preserve">
-    <value>Carotte</value>
+    <value>Carota</value>
   </data>
   <data name="d008" xml:space="preserve">
-    <value>Amarante</value>
+    <value>Amaranto</value>
   </data>
   <data name="d009" xml:space="preserve">
-    <value>Panais</value>
+    <value>Pastinaca</value>
   </data>
   <data name="d010" xml:space="preserve">
-    <value>Cuve</value>
+    <value>Tino</value>
   </data>
   <data name="d011" xml:space="preserve">
-    <value>Pomme de terre</value>
+    <value>Patata</value>
   </data>
   <data name="d012" xml:space="preserve">
-    <value>Immortelle</value>
+    <value>Perpetuino</value>
   </data>
   <data name="d013" xml:space="preserve">
-    <value>Potirone</value>
+    <value>Zucca</value>
   </data>
   <data name="d014" xml:space="preserve">
-    <value>Réséda</value>
+    <value>Reseda</value>
   </data>
   <data name="d015" xml:space="preserve">
-    <value>Âne</value>
+    <value>Asino</value>
   </data>
   <data name="d016" xml:space="preserve">
-    <value>Belle de nuit</value>
+    <value>Bella di notte</value>
   </data>
   <data name="d017" xml:space="preserve">
-    <value>Citrouille</value>
+    <value>Zucca</value>
   </data>
   <data name="d018" xml:space="preserve">
-    <value>Sarrasin</value>
+    <value>Grano saraceno</value>
   </data>
   <data name="d019" xml:space="preserve">
-    <value>Tournesol</value>
+    <value>Girasole</value>
   </data>
   <data name="d020" xml:space="preserve">
-    <value>Pressoir</value>
+    <value>Torchio</value>
   </data>
   <data name="d021" xml:space="preserve">
-    <value>Chanvre</value>
+    <value>Canapa</value>
   </data>
   <data name="d022" xml:space="preserve">
-    <value>Pêche</value>
+    <value>Pesca</value>
   </data>
   <data name="d023" xml:space="preserve">
-    <value>Navet</value>
+    <value>Rapa</value>
   </data>
   <data name="d024" xml:space="preserve">
-    <value>Amaryllis</value>
+    <value>Amarillide</value>
   </data>
   <data name="d025" xml:space="preserve">
-    <value>Bœuf</value>
+    <value>Bue</value>
   </data>
   <data name="d026" xml:space="preserve">
-    <value>Aubergine</value>
+    <value>Melanzana</value>
   </data>
   <data name="d027" xml:space="preserve">
-    <value>Piment</value>
+    <value>Peperoncino</value>
   </data>
   <data name="d028" xml:space="preserve">
-    <value>Tomate</value>
+    <value>Pomodoro</value>
   </data>
   <data name="d029" xml:space="preserve">
-    <value>Orge</value>
+    <value>Orzo</value>
   </data>
   <data name="d030" xml:space="preserve">
-    <value>Tonneau</value>
+    <value>Barile</value>
   </data>
   <data name="d031" xml:space="preserve">
-    <value>Pomme</value>
+    <value>Mela</value>
   </data>
   <data name="d032" xml:space="preserve">
-    <value>Céleri</value>
+    <value>Sedano</value>
   </data>
   <data name="d033" xml:space="preserve">
-    <value>Poire</value>
+    <value>Pera</value>
   </data>
   <data name="d034" xml:space="preserve">
-    <value>Betterave</value>
+    <value>Barbabietola</value>
   </data>
   <data name="d035" xml:space="preserve">
-    <value>Oie</value>
+    <value>Oca</value>
   </data>
   <data name="d036" xml:space="preserve">
-    <value>Héliotrope</value>
+    <value>Eliotropio</value>
   </data>
   <data name="d037" xml:space="preserve">
-    <value>Figue</value>
+    <value>Fico</value>
   </data>
   <data name="d038" xml:space="preserve">
-    <value>Scorsonère</value>
+    <value>Scorzonera</value>
   </data>
   <data name="d039" xml:space="preserve">
-    <value>Alisier</value>
+    <value>Ciavardello</value>
   </data>
   <data name="d040" xml:space="preserve">
-    <value>Charrue</value>
+    <value>Aratro</value>
   </data>
   <data name="d041" xml:space="preserve">
-    <value>Salsifis</value>
+    <value>Barba di becco</value>
   </data>
   <data name="d042" xml:space="preserve">
-    <value>Mâcre</value>
+    <value>Castagna d'acqua</value>
   </data>
   <data name="d043" xml:space="preserve">
-    <value>Topinambour</value>
+    <value>Topinambur</value>
   </data>
   <data name="d044" xml:space="preserve">
-    <value>Endive</value>
+    <value>Indivia</value>
   </data>
   <data name="d045" xml:space="preserve">
-    <value>Dindon</value>
+    <value>Tacchino</value>
   </data>
   <data name="d046" xml:space="preserve">
-    <value>Chervis</value>
+    <value>Sisaro</value>
   </data>
   <data name="d047" xml:space="preserve">
-    <value>Cresson</value>
+    <value>Crescione</value>
   </data>
   <data name="d048" xml:space="preserve">
-    <value>Dentelaire</value>
+    <value>Piombaggine</value>
   </data>
   <data name="d049" xml:space="preserve">
-    <value>Grenade</value>
+    <value>Melograno</value>
   </data>
   <data name="d050" xml:space="preserve">
-    <value>Herse</value>
+    <value>Erpice</value>
   </data>
   <data name="d051" xml:space="preserve">
-    <value>Bacchante</value>
+    <value>Baccaro</value>
   </data>
   <data name="d052" xml:space="preserve">
-    <value>Azerole</value>
+    <value>Azzeruolo</value>
   </data>
   <data name="d053" xml:space="preserve">
-    <value>Garance</value>
+    <value>Robbia</value>
   </data>
   <data name="d054" xml:space="preserve">
-    <value>Orange</value>
+    <value>Arancia</value>
   </data>
   <data name="d055" xml:space="preserve">
-    <value>Faisan</value>
+    <value>Fagiano</value>
   </data>
   <data name="d056" xml:space="preserve">
-    <value>Pistache</value>
+    <value>Pistacchio</value>
   </data>
   <data name="d057" xml:space="preserve">
-    <value>Macjonc</value>
+    <value>Cicerchia</value>
   </data>
   <data name="d058" xml:space="preserve">
-    <value>Coing</value>
+    <value>Cotogno</value>
   </data>
   <data name="d059" xml:space="preserve">
-    <value>Cormier</value>
+    <value>Sorbo</value>
   </data>
   <data name="d060" xml:space="preserve">
-    <value>Rouleau</value>
+    <value>Rullo</value>
   </data>
   <data name="d061" xml:space="preserve">
-    <value>Raiponce</value>
+    <value>Raponzolo</value>
   </data>
   <data name="d062" xml:space="preserve">
-    <value>Turneps</value>
+    <value>Rapa</value>
   </data>
   <data name="d063" xml:space="preserve">
-    <value>Chicorée</value>
+    <value>Cicoria</value>
   </data>
   <data name="d064" xml:space="preserve">
-    <value>Nèfle</value>
+    <value>Nespolo</value>
   </data>
   <data name="d065" xml:space="preserve">
-    <value>Cochon</value>
+    <value>Maiale</value>
   </data>
   <data name="d066" xml:space="preserve">
-    <value>Mâche</value>
+    <value>Soncino</value>
   </data>
   <data name="d067" xml:space="preserve">
-    <value>Chou-fleur</value>
+    <value>Cavolfiore</value>
   </data>
   <data name="d068" xml:space="preserve">
-    <value>Miel</value>
+    <value>Miele</value>
   </data>
   <data name="d069" xml:space="preserve">
-    <value>Genièvre</value>
+    <value>Ginepro</value>
   </data>
   <data name="d070" xml:space="preserve">
-    <value>Pioche</value>
+    <value>Zappa</value>
   </data>
   <data name="d071" xml:space="preserve">
-    <value>Cire</value>
+    <value>Cera</value>
   </data>
   <data name="d072" xml:space="preserve">
-    <value>Raifort</value>
+    <value>Rafano</value>
   </data>
   <data name="d073" xml:space="preserve">
-    <value>Cèdre</value>
+    <value>Cedro</value>
   </data>
   <data name="d074" xml:space="preserve">
-    <value>Sapin</value>
+    <value>Abete</value>
   </data>
   <data name="d075" xml:space="preserve">
-    <value>Chevreuil</value>
+    <value>Capriolo</value>
   </data>
   <data name="d076" xml:space="preserve">
-    <value>Ajonc</value>
+    <value>Ginestrone</value>
   </data>
   <data name="d077" xml:space="preserve">
-    <value>Cyprès</value>
+    <value>Cipresso</value>
   </data>
   <data name="d078" xml:space="preserve">
-    <value>Lierre</value>
+    <value>Edera</value>
   </data>
   <data name="d079" xml:space="preserve">
-    <value>Sabine</value>
+    <value>Sabina</value>
   </data>
   <data name="d080" xml:space="preserve">
-    <value>Hoyau</value>
+    <value>Ascia</value>
   </data>
   <data name="d081" xml:space="preserve">
-    <value>Érable sucré</value>
+    <value>Acero da zucchero</value>
   </data>
   <data name="d082" xml:space="preserve">
-    <value>Bruyère</value>
+    <value>Erica</value>
   </data>
   <data name="d083" xml:space="preserve">
-    <value>Roseau</value>
+    <value>Canna</value>
   </data>
   <data name="d084" xml:space="preserve">
-    <value>Oseille</value>
+    <value>Acetosa</value>
   </data>
   <data name="d085" xml:space="preserve">
-    <value>Grillon</value>
+    <value>Grillo</value>
   </data>
   <data name="d086" xml:space="preserve">
-    <value>Pignon</value>
+    <value>Pino</value>
   </data>
   <data name="d087" xml:space="preserve">
-    <value>Liège</value>
+    <value>Sughero</value>
   </data>
   <data name="d088" xml:space="preserve">
-    <value>Truffe</value>
+    <value>Tartufo</value>
   </data>
   <data name="d089" xml:space="preserve">
-    <value>Olive</value>
+    <value>Oliva</value>
   </data>
   <data name="d090" xml:space="preserve">
-    <value>Pelle</value>
+    <value>Pala</value>
   </data>
   <data name="d091" xml:space="preserve">
-    <value>Tourbe</value>
+    <value>Torba</value>
   </data>
   <data name="d092" xml:space="preserve">
-    <value>Houille</value>
+    <value>Carbone bituminoso</value>
   </data>
   <data name="d093" xml:space="preserve">
     <value>Bitume</value>
   </data>
   <data name="d094" xml:space="preserve">
-    <value>Soufre</value>
+    <value>Zolfo</value>
   </data>
   <data name="d095" xml:space="preserve">
-    <value>Chien</value>
+    <value>Cane</value>
   </data>
   <data name="d096" xml:space="preserve">
-    <value>Lave</value>
+    <value>Lava</value>
   </data>
   <data name="d097" xml:space="preserve">
-    <value>Terre végétale</value>
+    <value>Terra vegetale</value>
   </data>
   <data name="d098" xml:space="preserve">
-    <value>Fumier</value>
+    <value>Letame</value>
   </data>
   <data name="d099" xml:space="preserve">
-    <value>Salpêtre</value>
+    <value>Salnitro</value>
   </data>
   <data name="d100" xml:space="preserve">
-    <value>Fléau</value>
+    <value>Correggiato</value>
   </data>
   <data name="d101" xml:space="preserve">
-    <value>Granit</value>
+    <value>Granito</value>
   </data>
   <data name="d102" xml:space="preserve">
-    <value>Argile</value>
+    <value>Argilla</value>
   </data>
   <data name="d103" xml:space="preserve">
-    <value>Ardoise</value>
+    <value>Ardesia</value>
   </data>
   <data name="d104" xml:space="preserve">
-    <value>Grès</value>
+    <value>Arenaria</value>
   </data>
   <data name="d105" xml:space="preserve">
-    <value>Lapin</value>
+    <value>Coniglio</value>
   </data>
   <data name="d106" xml:space="preserve">
-    <value>Silex</value>
+    <value>Selce</value>
   </data>
   <data name="d107" xml:space="preserve">
-    <value>Marne</value>
+    <value>Marna</value>
   </data>
   <data name="d108" xml:space="preserve">
-    <value>Pierre à chaux</value>
+    <value>Calcare</value>
   </data>
   <data name="d109" xml:space="preserve">
-    <value>Marbre</value>
+    <value>Marmo</value>
   </data>
   <data name="d110" xml:space="preserve">
-    <value>Van</value>
+    <value>Setaccio</value>
   </data>
   <data name="d111" xml:space="preserve">
-    <value>Pierre à plâtre</value>
+    <value>Gesso</value>
   </data>
   <data name="d112" xml:space="preserve">
-    <value>Sel</value>
+    <value>Sale</value>
   </data>
   <data name="d113" xml:space="preserve">
-    <value>Fer</value>
+    <value>Ferro</value>
   </data>
   <data name="d114" xml:space="preserve">
-    <value>Cuivre</value>
+    <value>Rame</value>
   </data>
   <data name="d115" xml:space="preserve">
-    <value>Chat</value>
+    <value>Gatto</value>
   </data>
   <data name="d116" xml:space="preserve">
-    <value>Étain</value>
+    <value>Stagno</value>
   </data>
   <data name="d117" xml:space="preserve">
-    <value>Plomb</value>
+    <value>Piombo</value>
   </data>
   <data name="d118" xml:space="preserve">
-    <value>Zinc</value>
+    <value>Zinco</value>
   </data>
   <data name="d119" xml:space="preserve">
-    <value>Mercure</value>
+    <value>Mercurio</value>
   </data>
   <data name="d120" xml:space="preserve">
-    <value>Crible</value>
+    <value>Colino</value>
   </data>
   <data name="d121" xml:space="preserve">
-    <value>Lauréole</value>
+    <value>Dafne laurella</value>
   </data>
   <data name="d122" xml:space="preserve">
-    <value>Mousse</value>
+    <value>Muschio</value>
   </data>
   <data name="d123" xml:space="preserve">
-    <value>Fragon</value>
+    <value>Pungitopo</value>
   </data>
   <data name="d124" xml:space="preserve">
-    <value>Perce-neige</value>
+    <value>Bucaneve</value>
   </data>
   <data name="d125" xml:space="preserve">
-    <value>Taureau</value>
+    <value>Toro</value>
   </data>
   <data name="d126" xml:space="preserve">
-    <value>Laurier tin</value>
+    <value>Viburno</value>
   </data>
   <data name="d127" xml:space="preserve">
-    <value>Amadouvier</value>
+    <value>Fungo dell'esca</value>
   </data>
   <data name="d128" xml:space="preserve">
-    <value>Mézéréon</value>
+    <value>Camalea</value>
   </data>
   <data name="d129" xml:space="preserve">
-    <value>Peuplier</value>
+    <value>Pioppo</value>
   </data>
   <data name="d130" xml:space="preserve">
-    <value>Cognée</value>
+    <value>Scure</value>
   </data>
   <data name="d131" xml:space="preserve">
-    <value>Ellébore</value>
+    <value>Elleboro</value>
   </data>
   <data name="d132" xml:space="preserve">
-    <value>Brocoli</value>
+    <value>Broccolo</value>
   </data>
   <data name="d133" xml:space="preserve">
-    <value>Laurier</value>
+    <value>Alloro</value>
   </data>
   <data name="d134" xml:space="preserve">
-    <value>Avelinier</value>
+    <value>Nocciolo</value>
   </data>
   <data name="d135" xml:space="preserve">
-    <value>Vache</value>
+    <value>Vacca</value>
   </data>
   <data name="d136" xml:space="preserve">
-    <value>Buis</value>
+    <value>Bosso</value>
   </data>
   <data name="d137" xml:space="preserve">
-    <value>Lichen</value>
+    <value>Lichene</value>
   </data>
   <data name="d138" xml:space="preserve">
-    <value>If</value>
+    <value>Tasso</value>
   </data>
   <data name="d139" xml:space="preserve">
-    <value>Pulmonaire</value>
+    <value>Polmonaria</value>
   </data>
   <data name="d140" xml:space="preserve">
-    <value>Serpette</value>
+    <value>Coltello da potatura</value>
   </data>
   <data name="d141" xml:space="preserve">
     <value>Thlaspi</value>
   </data>
   <data name="d142" xml:space="preserve">
-    <value>Thimele</value>
+    <value>Dafne odorosa</value>
   </data>
   <data name="d143" xml:space="preserve">
-    <value>Chiendent</value>
+    <value>Gramigna</value>
   </data>
   <data name="d144" xml:space="preserve">
-    <value>Trainasse</value>
+    <value>Centinodio</value>
   </data>
   <data name="d145" xml:space="preserve">
-    <value>Lièvre</value>
+    <value>Lepre</value>
   </data>
   <data name="d146" xml:space="preserve">
-    <value>Guède</value>
+    <value>Guado</value>
   </data>
   <data name="d147" xml:space="preserve">
-    <value>Noisetier</value>
+    <value>Nocciolo</value>
   </data>
   <data name="d148" xml:space="preserve">
-    <value>Cyclamen</value>
+    <value>Ciclamino</value>
   </data>
   <data name="d149" xml:space="preserve">
-    <value>Chélidoine</value>
+    <value>Celidonia</value>
   </data>
   <data name="d150" xml:space="preserve">
-    <value>Traîneau</value>
+    <value>Slitta</value>
   </data>
   <data name="d151" xml:space="preserve">
-    <value>Tussilage</value>
+    <value>Tossillagine</value>
   </data>
   <data name="d152" xml:space="preserve">
-    <value>Cornouiller</value>
+    <value>Corniolo</value>
   </data>
   <data name="d153" xml:space="preserve">
-    <value>Violier</value>
+    <value>Violacciocca</value>
   </data>
   <data name="d154" xml:space="preserve">
-    <value>Troène</value>
+    <value>Ligustro</value>
   </data>
   <data name="d155" xml:space="preserve">
-    <value>Bouc</value>
+    <value>Caprone</value>
   </data>
   <data name="d156" xml:space="preserve">
-    <value>Asaret</value>
+    <value>Baccaro comune</value>
   </data>
   <data name="d157" xml:space="preserve">
-    <value>Alaterne</value>
+    <value>Alaterno</value>
   </data>
   <data name="d158" xml:space="preserve">
-    <value>Violette</value>
+    <value>Violetta</value>
   </data>
   <data name="d159" xml:space="preserve">
-    <value>Marceau</value>
+    <value>Salicone</value>
   </data>
   <data name="d160" xml:space="preserve">
-    <value>Bêche</value>
+    <value>Vanga</value>
   </data>
   <data name="d161" xml:space="preserve">
-    <value>Narcisse</value>
+    <value>Narciso</value>
   </data>
   <data name="d162" xml:space="preserve">
-    <value>Orme</value>
+    <value>Olmo</value>
   </data>
   <data name="d163" xml:space="preserve">
-    <value>Fumeterre</value>
+    <value>Fumaria</value>
   </data>
   <data name="d164" xml:space="preserve">
-    <value>Vélar</value>
+    <value>Erisimo</value>
   </data>
   <data name="d165" xml:space="preserve">
-    <value>Chèvre</value>
+    <value>Capra</value>
   </data>
   <data name="d166" xml:space="preserve">
-    <value>Épinard</value>
+    <value>Spinacio</value>
   </data>
   <data name="d167" xml:space="preserve">
-    <value>Doronic</value>
+    <value>Doronico</value>
   </data>
   <data name="d168" xml:space="preserve">
-    <value>Mouron</value>
+    <value>Primula</value>
   </data>
   <data name="d169" xml:space="preserve">
-    <value>Cerfeuil</value>
+    <value>Cerfoglio</value>
   </data>
   <data name="d170" xml:space="preserve">
-    <value>Cordeau</value>
+    <value>Corda</value>
   </data>
   <data name="d171" xml:space="preserve">
-    <value>Mandragore</value>
+    <value>Mandragola</value>
   </data>
   <data name="d172" xml:space="preserve">
-    <value>Persil</value>
+    <value>Prezzemolo</value>
   </data>
   <data name="d173" xml:space="preserve">
-    <value>Cochléaria</value>
+    <value>Coclearia</value>
   </data>
   <data name="d174" xml:space="preserve">
-    <value>Pâquerette</value>
+    <value>Margherita</value>
   </data>
   <data name="d175" xml:space="preserve">
-    <value>Thon</value>
+    <value>Tonno</value>
   </data>
   <data name="d176" xml:space="preserve">
-    <value>Pissenlit</value>
+    <value>Dente di leone</value>
   </data>
   <data name="d177" xml:space="preserve">
-    <value>Sylvie</value>
+    <value>Anemone</value>
   </data>
   <data name="d178" xml:space="preserve">
-    <value>Capillaire</value>
+    <value>Capelvenere</value>
   </data>
   <data name="d179" xml:space="preserve">
-    <value>Frêne</value>
+    <value>Frassino</value>
   </data>
   <data name="d180" xml:space="preserve">
-    <value>Plantoir</value>
+    <value>Piantatoio</value>
   </data>
   <data name="d181" xml:space="preserve">
-    <value>Primevère</value>
+    <value>Primula</value>
   </data>
   <data name="d182" xml:space="preserve">
-    <value>Platane</value>
+    <value>Platano</value>
   </data>
   <data name="d183" xml:space="preserve">
-    <value>Asperge</value>
+    <value>Asparago</value>
   </data>
   <data name="d184" xml:space="preserve">
-    <value>Tulipe</value>
+    <value>Tulipano</value>
   </data>
   <data name="d185" xml:space="preserve">
-    <value>Poule</value>
+    <value>Gallina</value>
   </data>
   <data name="d186" xml:space="preserve">
-    <value>Bette</value>
+    <value>Bietola</value>
   </data>
   <data name="d187" xml:space="preserve">
-    <value>Bouleau</value>
+    <value>Betulla</value>
   </data>
   <data name="d188" xml:space="preserve">
-    <value>Jonquille</value>
+    <value>Narciso</value>
   </data>
   <data name="d189" xml:space="preserve">
-    <value>Aulne</value>
+    <value>Ontano</value>
   </data>
   <data name="d190" xml:space="preserve">
-    <value>Greffoir</value>
+    <value>Covata</value>
   </data>
   <data name="d191" xml:space="preserve">
-    <value>Pervenche</value>
+    <value>Pervinca</value>
   </data>
   <data name="d192" xml:space="preserve">
-    <value>Charme</value>
+    <value>Carpino</value>
   </data>
   <data name="d193" xml:space="preserve">
-    <value>Morille</value>
+    <value>Spugnola</value>
   </data>
   <data name="d194" xml:space="preserve">
-    <value>Hêtre</value>
+    <value>Faggio</value>
   </data>
   <data name="d195" xml:space="preserve">
-    <value>Abeille</value>
+    <value>Ape</value>
   </data>
   <data name="d196" xml:space="preserve">
-    <value>Laitue</value>
+    <value>Lattuga</value>
   </data>
   <data name="d197" xml:space="preserve">
-    <value>Mélèze</value>
+    <value>Larice</value>
   </data>
   <data name="d198" xml:space="preserve">
-    <value>Ciguë</value>
+    <value>Cicuta</value>
   </data>
   <data name="d199" xml:space="preserve">
-    <value>Radis</value>
+    <value>Ravanello</value>
   </data>
   <data name="d200" xml:space="preserve">
-    <value>Ruche</value>
+    <value>Arnia</value>
   </data>
   <data name="d201" xml:space="preserve">
-    <value>Gainier</value>
+    <value>Albero di Giuda</value>
   </data>
   <data name="d202" xml:space="preserve">
-    <value>Romaine</value>
+    <value>Lattuga</value>
   </data>
   <data name="d203" xml:space="preserve">
-    <value>Marronnier</value>
+    <value>Ippocastano</value>
   </data>
   <data name="d204" xml:space="preserve">
-    <value>Roquette</value>
+    <value>Rucola</value>
   </data>
   <data name="d205" xml:space="preserve">
-    <value>Pigeon</value>
+    <value>Piccione</value>
   </data>
   <data name="d206" xml:space="preserve">
-    <value>Lilas (commun)</value>
+    <value>Anemone/Lillà</value>
   </data>
   <data name="d207" xml:space="preserve">
-    <value>Anémone</value>
+    <value>Lillà/Anemone</value>
   </data>
   <data name="d208" xml:space="preserve">
-    <value>Pensée</value>
+    <value>Viola del pensiero</value>
   </data>
   <data name="d209" xml:space="preserve">
-    <value>Myrtile</value>
+    <value>Mirtillo</value>
   </data>
   <data name="d210" xml:space="preserve">
-    <value>Couvoir</value>
+    <value>Coltello da innesto</value>
   </data>
   <data name="d211" xml:space="preserve">
-    <value>Rose</value>
+    <value>Rosa</value>
   </data>
   <data name="d212" xml:space="preserve">
-    <value>Chêne</value>
+    <value>Quercia</value>
   </data>
   <data name="d213" xml:space="preserve">
-    <value>Fougère</value>
+    <value>Felce</value>
   </data>
   <data name="d214" xml:space="preserve">
-    <value>Aubépine</value>
+    <value>Biancospino</value>
   </data>
   <data name="d215" xml:space="preserve">
-    <value>Rossignol</value>
+    <value>Usignolo</value>
   </data>
   <data name="d216" xml:space="preserve">
-    <value>Ancolie</value>
+    <value>Aquilegia</value>
   </data>
   <data name="d217" xml:space="preserve">
-    <value>Muguet</value>
+    <value>Mughetto</value>
   </data>
   <data name="d218" xml:space="preserve">
-    <value>Champignon</value>
+    <value>Fungo</value>
   </data>
   <data name="d219" xml:space="preserve">
-    <value>Hyacinthe</value>
+    <value>Giacinto</value>
   </data>
   <data name="d220" xml:space="preserve">
-    <value>Râteau</value>
+    <value>Rastrello</value>
   </data>
   <data name="d221" xml:space="preserve">
-    <value>Rhubarbe</value>
+    <value>Rabarbaro</value>
   </data>
   <data name="d222" xml:space="preserve">
-    <value>Sainfoin</value>
+    <value>Lupinella</value>
   </data>
   <data name="d223" xml:space="preserve">
-    <value>Bâton-d'or</value>
+    <value>Violacciocca gialla</value>
   </data>
   <data name="d224" xml:space="preserve">
-    <value>Chamérisier</value>
+    <value>Lonicera</value>
   </data>
   <data name="d225" xml:space="preserve">
-    <value>Ver à soie</value>
+    <value>Baco da seta</value>
   </data>
   <data name="d226" xml:space="preserve">
-    <value>Consoude</value>
+    <value>Consolida maggiore</value>
   </data>
   <data name="d227" xml:space="preserve">
-    <value>Pimprenelle</value>
+    <value>Pimpinella</value>
   </data>
   <data name="d228" xml:space="preserve">
-    <value>Corbeille d'or</value>
+    <value>Alisso sassicolo</value>
   </data>
   <data name="d229" xml:space="preserve">
-    <value>Arroche</value>
+    <value>Atriplice</value>
   </data>
   <data name="d230" xml:space="preserve">
-    <value>Sarcloir</value>
+    <value>Sarchiello</value>
   </data>
   <data name="d231" xml:space="preserve">
     <value>Statice</value>
   </data>
   <data name="d232" xml:space="preserve">
-    <value>Fritillaire</value>
+    <value>Fritillaria</value>
   </data>
   <data name="d233" xml:space="preserve">
-    <value>Bourrache</value>
+    <value>Borragine</value>
   </data>
   <data name="d234" xml:space="preserve">
-    <value>Valériane</value>
+    <value>Valeriana</value>
   </data>
   <data name="d235" xml:space="preserve">
-    <value>Carpe</value>
+    <value>Carpa</value>
   </data>
   <data name="d236" xml:space="preserve">
-    <value>Fusain</value>
+    <value>Fusaggine</value>
   </data>
   <data name="d237" xml:space="preserve">
-    <value>Civette</value>
+    <value>Erba cipollina</value>
   </data>
   <data name="d238" xml:space="preserve">
-    <value>Buglosse</value>
+    <value>Buglossa</value>
   </data>
   <data name="d239" xml:space="preserve">
-    <value>Sénevé</value>
+    <value>Senape</value>
   </data>
   <data name="d240" xml:space="preserve">
-    <value>Houlette</value>
+    <value>Vincastro</value>
   </data>
   <data name="d241" xml:space="preserve">
-    <value>Luzerne</value>
+    <value>Erba medica</value>
   </data>
   <data name="d242" xml:space="preserve">
-    <value>Hémérocalle</value>
+    <value>Emerocallide</value>
   </data>
   <data name="d243" xml:space="preserve">
-    <value>Trèfle</value>
+    <value>Trifoglio</value>
   </data>
   <data name="d244" xml:space="preserve">
-    <value>Angélique</value>
+    <value>Angelica</value>
   </data>
   <data name="d245" xml:space="preserve">
-    <value>Canard</value>
+    <value>Anatra</value>
   </data>
   <data name="d246" xml:space="preserve">
-    <value>Mélisse</value>
+    <value>Melissa</value>
   </data>
   <data name="d247" xml:space="preserve">
-    <value>Fromental</value>
+    <value>Avena altissima</value>
   </data>
   <data name="d248" xml:space="preserve">
-    <value>Lis martagon</value>
+    <value>Giglio martagone</value>
   </data>
   <data name="d249" xml:space="preserve">
-    <value>Serpolet</value>
+    <value>Timo serpillo</value>
   </data>
   <data name="d250" xml:space="preserve">
-    <value>Faux</value>
+    <value>Falce</value>
   </data>
   <data name="d251" xml:space="preserve">
-    <value>Fraise</value>
+    <value>Fragola</value>
   </data>
   <data name="d252" xml:space="preserve">
-    <value>Bétoine</value>
+    <value>Betonica</value>
   </data>
   <data name="d253" xml:space="preserve">
-    <value>Pois</value>
+    <value>Pisello</value>
   </data>
   <data name="d254" xml:space="preserve">
     <value>Acacia</value>
   </data>
   <data name="d255" xml:space="preserve">
-    <value>Caille</value>
+    <value>Quaglia</value>
   </data>
   <data name="d256" xml:space="preserve">
-    <value>Œillet</value>
+    <value>Garofano</value>
   </data>
   <data name="d257" xml:space="preserve">
-    <value>Sureau</value>
+    <value>Sambuco</value>
   </data>
   <data name="d258" xml:space="preserve">
-    <value>Pavot</value>
+    <value>Papavero</value>
   </data>
   <data name="d259" xml:space="preserve">
-    <value>Tilleul</value>
+    <value>Tiglio</value>
   </data>
   <data name="d260" xml:space="preserve">
-    <value>Fourche</value>
+    <value>Forcone</value>
   </data>
   <data name="d261" xml:space="preserve">
-    <value>Barbeau</value>
+    <value>Fiordaliso</value>
   </data>
   <data name="d262" xml:space="preserve">
-    <value>Camomille</value>
+    <value>Camomilla</value>
   </data>
   <data name="d263" xml:space="preserve">
-    <value>Chèvrefeuille</value>
+    <value>Caprifoglio</value>
   </data>
   <data name="d264" xml:space="preserve">
-    <value>Caille-lait</value>
+    <value>Caglio</value>
   </data>
   <data name="d265" xml:space="preserve">
-    <value>Tanche</value>
+    <value>Tinca</value>
   </data>
   <data name="d266" xml:space="preserve">
-    <value>Jasmin</value>
+    <value>Gelsomino</value>
   </data>
   <data name="d267" xml:space="preserve">
-    <value>Verveine</value>
+    <value>Verbena</value>
   </data>
   <data name="d268" xml:space="preserve">
-    <value>Thym</value>
+    <value>Timo</value>
   </data>
   <data name="d269" xml:space="preserve">
-    <value>Pivoine</value>
+    <value>Peonia</value>
   </data>
   <data name="d270" xml:space="preserve">
-    <value>Chariot</value>
+    <value>Carro</value>
   </data>
   <data name="d271" xml:space="preserve">
-    <value>Seigle</value>
+    <value>Segale</value>
   </data>
   <data name="d272" xml:space="preserve">
-    <value>Avoine</value>
+    <value>Avena</value>
   </data>
   <data name="d273" xml:space="preserve">
-    <value>Oignon</value>
+    <value>Cipolla</value>
   </data>
   <data name="d274" xml:space="preserve">
-    <value>Véronique</value>
+    <value>Veronica</value>
   </data>
   <data name="d275" xml:space="preserve">
-    <value>Mulet</value>
+    <value>Mulo</value>
   </data>
   <data name="d276" xml:space="preserve">
-    <value>Romarin</value>
+    <value>Rosmarino</value>
   </data>
   <data name="d277" xml:space="preserve">
-    <value>Concombre</value>
+    <value>Cetriolo</value>
   </data>
   <data name="d278" xml:space="preserve">
-    <value>Échalote</value>
+    <value>Scalogno</value>
   </data>
   <data name="d279" xml:space="preserve">
-    <value>Absinthe</value>
+    <value>Assenzio</value>
   </data>
   <data name="d280" xml:space="preserve">
-    <value>Faucille</value>
+    <value>Falcetto</value>
   </data>
   <data name="d281" xml:space="preserve">
-    <value>Coriandre</value>
+    <value>Coriandolo</value>
   </data>
   <data name="d282" xml:space="preserve">
-    <value>Artichaut</value>
+    <value>Carciofo</value>
   </data>
   <data name="d283" xml:space="preserve">
-    <value>Girofle</value>
+    <value>Violacciocca</value>
   </data>
   <data name="d284" xml:space="preserve">
-    <value>Lavande</value>
+    <value>Lavanda</value>
   </data>
   <data name="d285" xml:space="preserve">
-    <value>Chamois</value>
+    <value>Camoscio</value>
   </data>
   <data name="d286" xml:space="preserve">
-    <value>Tabac</value>
+    <value>Tabacco</value>
   </data>
   <data name="d287" xml:space="preserve">
-    <value>Groseille</value>
+    <value>Ribes</value>
   </data>
   <data name="d288" xml:space="preserve">
-    <value>Gesse</value>
+    <value>Cicerchia</value>
   </data>
   <data name="d289" xml:space="preserve">
-    <value>Cerise</value>
+    <value>Ciliegia</value>
   </data>
   <data name="d290" xml:space="preserve">
-    <value>Parc</value>
+    <value>Ovile</value>
   </data>
   <data name="d291" xml:space="preserve">
-    <value>Menthe</value>
+    <value>Menta</value>
   </data>
   <data name="d292" xml:space="preserve">
-    <value>Cumin</value>
+    <value>Cumino</value>
   </data>
   <data name="d293" xml:space="preserve">
-    <value>Haricot</value>
+    <value>Fagiolo</value>
   </data>
   <data name="d294" xml:space="preserve">
-    <value>Orcanète</value>
+    <value>Alcanna</value>
   </data>
   <data name="d295" xml:space="preserve">
-    <value>Pintade</value>
+    <value>Faraona</value>
   </data>
   <data name="d296" xml:space="preserve">
-    <value>Sauge</value>
+    <value>Salvia</value>
   </data>
   <data name="d297" xml:space="preserve">
-    <value>Ail</value>
+    <value>Aglio</value>
   </data>
   <data name="d298" xml:space="preserve">
-    <value>Vesce</value>
+    <value>Veccia</value>
   </data>
   <data name="d299" xml:space="preserve">
-    <value>Blé</value>
+    <value>Grano</value>
   </data>
   <data name="d300" xml:space="preserve">
-    <value>Chalemie</value>
+    <value>Ciaramella</value>
   </data>
   <data name="d301" xml:space="preserve">
-    <value>Épeautre</value>
+    <value>Spelto</value>
   </data>
   <data name="d302" xml:space="preserve">
-    <value>Bouillon-blanc</value>
+    <value>Tasso barbasso</value>
   </data>
   <data name="d303" xml:space="preserve">
-    <value>Melon</value>
+    <value>Melone</value>
   </data>
   <data name="d304" xml:space="preserve">
-    <value>Ivraie</value>
+    <value>Loglio</value>
   </data>
   <data name="d305" xml:space="preserve">
-    <value>Bélier</value>
+    <value>Ariete</value>
   </data>
   <data name="d306" xml:space="preserve">
-    <value>Prêle</value>
+    <value>Equiseto</value>
   </data>
   <data name="d307" xml:space="preserve">
-    <value>Armoise</value>
+    <value>Artemisia</value>
   </data>
   <data name="d308" xml:space="preserve">
-    <value>Carthame</value>
+    <value>Cartamo</value>
   </data>
   <data name="d309" xml:space="preserve">
-    <value>Mûre</value>
+    <value>Mora</value>
   </data>
   <data name="d310" xml:space="preserve">
-    <value>Arrosoir</value>
+    <value>Annaffiatoio</value>
   </data>
   <data name="d311" xml:space="preserve">
-    <value>Panic</value>
+    <value>Eringio</value>
   </data>
   <data name="d312" xml:space="preserve">
-    <value>Salicorne</value>
+    <value>Salicornia</value>
   </data>
   <data name="d313" xml:space="preserve">
-    <value>Abricot</value>
+    <value>Albicocca</value>
   </data>
   <data name="d314" xml:space="preserve">
-    <value>Basilic</value>
+    <value>Basilico</value>
   </data>
   <data name="d315" xml:space="preserve">
-    <value>Brebis</value>
+    <value>Pecora</value>
   </data>
   <data name="d316" xml:space="preserve">
-    <value>Guimauve</value>
+    <value>Altea</value>
   </data>
   <data name="d317" xml:space="preserve">
-    <value>Lin</value>
+    <value>Lino</value>
   </data>
   <data name="d318" xml:space="preserve">
-    <value>Amande</value>
+    <value>Mandorla</value>
   </data>
   <data name="d319" xml:space="preserve">
-    <value>Gentiane</value>
+    <value>Genziana</value>
   </data>
   <data name="d320" xml:space="preserve">
-    <value>Écluse</value>
+    <value>Chiusa</value>
   </data>
   <data name="d321" xml:space="preserve">
-    <value>Carline</value>
+    <value>Carlina bianca</value>
   </data>
   <data name="d322" xml:space="preserve">
-    <value>Câprier</value>
+    <value>Cappero</value>
   </data>
   <data name="d323" xml:space="preserve">
-    <value>Lentille</value>
+    <value>Lenticchia</value>
   </data>
   <data name="d324" xml:space="preserve">
-    <value>Aunée</value>
+    <value>Enula</value>
   </data>
   <data name="d325" xml:space="preserve">
-    <value>Loutre</value>
+    <value>Lontra</value>
   </data>
   <data name="d326" xml:space="preserve">
-    <value>Myrte</value>
+    <value>Mirto</value>
   </data>
   <data name="d327" xml:space="preserve">
     <value>Colza</value>
   </data>
   <data name="d328" xml:space="preserve">
-    <value>Lupin</value>
+    <value>Lupino</value>
   </data>
   <data name="d329" xml:space="preserve">
-    <value>Coton</value>
+    <value>Cotone</value>
   </data>
   <data name="d330" xml:space="preserve">
-    <value>Moulin</value>
+    <value>Mulino</value>
   </data>
   <data name="d331" xml:space="preserve">
-    <value>Prune</value>
+    <value>Prugna</value>
   </data>
   <data name="d332" xml:space="preserve">
-    <value>Millet</value>
+    <value>Miglio</value>
   </data>
   <data name="d333" xml:space="preserve">
-    <value>Lycoperdon</value>
+    <value>Vescia</value>
   </data>
   <data name="d334" xml:space="preserve">
-    <value>Escourgeon</value>
+    <value>Orzo maschio</value>
   </data>
   <data name="d335" xml:space="preserve">
-    <value>Saumon</value>
+    <value>Salmone</value>
   </data>
   <data name="d336" xml:space="preserve">
-    <value>Tubéreuse</value>
+    <value>Tuberosa</value>
   </data>
   <data name="d337" xml:space="preserve">
-    <value>Sucrion</value>
+    <value>Orzo comune</value>
   </data>
   <data name="d338" xml:space="preserve">
-    <value>Apocyn</value>
+    <value>Apocino</value>
   </data>
   <data name="d339" xml:space="preserve">
-    <value>Réglisse</value>
+    <value>Liquirizia</value>
   </data>
   <data name="d340" xml:space="preserve">
-    <value>Échelle</value>
+    <value>Scala</value>
   </data>
   <data name="d341" xml:space="preserve">
-    <value>Pastèque</value>
+    <value>Anguria</value>
   </data>
   <data name="d342" xml:space="preserve">
-    <value>Fenouil</value>
+    <value>Finocchio</value>
   </data>
   <data name="d343" xml:space="preserve">
-    <value>Épine vinette</value>
+    <value>Crespino</value>
   </data>
   <data name="d344" xml:space="preserve">
-    <value>Noix</value>
+    <value>Noce</value>
   </data>
   <data name="d345" xml:space="preserve">
-    <value>Truite</value>
+    <value>Trota</value>
   </data>
   <data name="d346" xml:space="preserve">
-    <value>Citron</value>
+    <value>Limone</value>
   </data>
   <data name="d347" xml:space="preserve">
-    <value>Cardère</value>
+    <value>Cardo</value>
   </data>
   <data name="d348" xml:space="preserve">
-    <value>Nerprun</value>
+    <value>Alaterno</value>
   </data>
   <data name="d349" xml:space="preserve">
-    <value>Tagette</value>
+    <value>Garofano d'India</value>
   </data>
   <data name="d350" xml:space="preserve">
-    <value>Hotte</value>
+    <value>Gerla</value>
   </data>
   <data name="d351" xml:space="preserve">
-    <value>Églantier</value>
+    <value>Rosa canina</value>
   </data>
   <data name="d352" xml:space="preserve">
-    <value>Noisette</value>
+    <value>Nocciola</value>
   </data>
   <data name="d353" xml:space="preserve">
-    <value>Houblon</value>
+    <value>Luppolo</value>
   </data>
   <data name="d354" xml:space="preserve">
-    <value>Sorgho</value>
+    <value>Sorgo</value>
   </data>
   <data name="d355" xml:space="preserve">
-    <value>Écrevisse</value>
+    <value>Gambero</value>
   </data>
   <data name="d356" xml:space="preserve">
-    <value>Bigarade</value>
+    <value>Arancio amaro</value>
   </data>
   <data name="d357" xml:space="preserve">
-    <value>Verge d'or</value>
+    <value>Verga d'oro</value>
   </data>
   <data name="d358" xml:space="preserve">
-    <value>Maïs</value>
+    <value>Granoturco</value>
   </data>
   <data name="d359" xml:space="preserve">
-    <value>Marron</value>
+    <value>Castagna</value>
   </data>
   <data name="d360" xml:space="preserve">
-    <value>Panier</value>
+    <value>Cesta</value>
   </data>
   <data name="d361" xml:space="preserve">
-    <value>Jour de la vertu</value>
+    <value>Giorno della Virtù</value>
   </data>
   <data name="d362" xml:space="preserve">
-    <value>Jour du génie</value>
+    <value>Giorno del Genio</value>
   </data>
   <data name="d363" xml:space="preserve">
-    <value>Jour du travail</value>
+    <value>Giorno del Lavoro</value>
   </data>
   <data name="d364" xml:space="preserve">
-    <value>Jour de l'opinion</value>
+    <value>Giorno dell'Opinione</value>
   </data>
   <data name="d365" xml:space="preserve">
-    <value>Jour des récompenses</value>
+    <value>Giorno delle Ricompense</value>
   </data>
   <data name="d366" xml:space="preserve">
-    <value>Jour de la révolution</value>
+    <value>Giorno della Rivoluzione</value>
   </data>
 
   <resheader name="resmimetype">
