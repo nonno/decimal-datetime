@@ -8,14 +8,14 @@
   <PropertyGroup>
     <PackageId>Decimal.DateTime</PackageId>
     <Authors>pallettaro, mpic</Authors>
-    <NeutralLanguage>it-IT</NeutralLanguage>
+    <NeutralLanguage>fr-FR</NeutralLanguage>
     <Owners>pallettaro, mpic</Owners>
     <PackageProjectUrl>https://github.com/nonno/decimal-datetime</PackageProjectUrl>
     <Title>Decimal DateTime</Title>
     <Description>Library for handling decimal time and revolutionary calendar</Description>
     <ReleaseVersion>2.0</ReleaseVersion>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>1.4</PackageVersion>
+    <PackageVersion>1.4.1</PackageVersion>
     <RootNamespace>Pallettaro.Revo</RootNamespace>
     <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
