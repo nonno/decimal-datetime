@@ -2,7 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.1</TargetFramework>
-    <ReleaseVersion></ReleaseVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" $(TargetFramework) == 'netstandard1.0' ">
+    <DefineConstants>PCL</DefineConstants>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -38,6 +41,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.1" />
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.2" />
   </ItemGroup>
 </Project>

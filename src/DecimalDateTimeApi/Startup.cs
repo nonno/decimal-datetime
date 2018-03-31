@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace DecimalDateTimeApi
 {
@@ -20,13 +21,15 @@ namespace DecimalDateTimeApi
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
+        // Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            services.AddSwaggerGen(x => x.SwaggerDoc("v1", new Info { Title = "API", Version = "v1" }));
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        // Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment()) {
@@ -34,6 +37,9 @@ namespace DecimalDateTimeApi
             }
 
             app.UseMvc();
+
+            app.UseSwagger();
+            app.UseSwaggerUI(x => x.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1"));
         }
     }
 }
