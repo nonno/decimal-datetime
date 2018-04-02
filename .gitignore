@@ -189,3 +189,4 @@ UpgradeLog*.htm
 FakesAssemblies/
 .localhistory/
 *.nupkg
+src/DecimalDateTime/.vs

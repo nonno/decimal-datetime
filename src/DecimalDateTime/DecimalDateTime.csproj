@@ -1,11 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.1</TargetFramework>
-  </PropertyGroup>
-
-  <PropertyGroup Condition=" $(TargetFramework) == 'netstandard1.0' ">
-    <DefineConstants>PCL</DefineConstants>
+    <TargetFrameworks>netstandard1.1;netstandard2.0;</TargetFrameworks>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -17,8 +13,7 @@
     <Title>Decimal DateTime</Title>
     <Description>Library for handling decimal time and revolutionary calendar</Description>
     <ReleaseVersion>2.0</ReleaseVersion>
-    <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>1.4.1</PackageVersion>
+    <PackageVersion>1.4.3</PackageVersion>
     <RootNamespace>Pallettaro.Revo</RootNamespace>
     <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
@@ -39,8 +34,5 @@
     <Compile Update="i18n\MonthsDes.Designer.cs">
       <DependentUpon>MonthsDes.resx</DependentUpon>
     </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.2" />
   </ItemGroup>
 </Project>
