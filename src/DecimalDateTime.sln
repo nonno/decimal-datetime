@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalDateTime", "DecimalDateTime\DecimalDateTime.csproj", "{DB60695F-9912-4F89-9B1D-FB99039F0397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalDateTimeApi", "DecimalDateTimeApi\DecimalDateTimeApi.csproj", "{717749D7-6A3C-41F8-88B8-F274507A7756}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalDateTimeApi", "DecimalDateTimeApi\DecimalDateTimeApi.csproj", "{5CAED42F-7A36-4DEB-A582-3795FE79821E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{DB60695F-9912-4F89-9B1D-FB99039F0397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB60695F-9912-4F89-9B1D-FB99039F0397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB60695F-9912-4F89-9B1D-FB99039F0397}.Release|Any CPU.Build.0 = Release|Any CPU
-		{717749D7-6A3C-41F8-88B8-F274507A7756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{717749D7-6A3C-41F8-88B8-F274507A7756}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{717749D7-6A3C-41F8-88B8-F274507A7756}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{717749D7-6A3C-41F8-88B8-F274507A7756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAED42F-7A36-4DEB-A582-3795FE79821E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAED42F-7A36-4DEB-A582-3795FE79821E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAED42F-7A36-4DEB-A582-3795FE79821E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAED42F-7A36-4DEB-A582-3795FE79821E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		version = 

@@ -46,11 +46,11 @@ namespace DecimalDateTimeApi.Controllers
             try {
                 return DateTime.Parse(timestamp, cultureInfo[cultureIndex]);
             }
-            catch (FormatException exc) {
+            catch (FormatException) {
                 if (cultureInfo.Length > cultureIndex + 1) {
                     return ParseDateTime(timestamp, cultureIndex + 1);
                 }
-                throw exc;
+                throw;
             }
         }
 
